@@ -12,3 +12,17 @@ env/
 # Testing
 .pytest_cache/
 .coverage
+
+# Node/Frontend (if any accidentally copied here)
+node_modules/
+dist/
+build/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
